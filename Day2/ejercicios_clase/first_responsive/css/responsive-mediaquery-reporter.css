@@ -1,0 +1,61 @@
+/*@media only screen and (min-width: 320px){
+	body{
+		background-color: red;
+    	font-style: normal;
+	}
+	body:after{
+		content: "320 and up";
+		background-color: white;
+	}
+}
+
+@media only screen and (min-width: 480px){
+	body{
+		background-color: orange;
+   	 	font-style: italic;
+	}
+	body:after{
+		content: "480 and up";
+		background-color: yellow;
+	}
+}
+
+@media only screen and (min-width: 768px){
+	body{
+		background-color: yellow;
+    	font-style: oblique;
+	}
+	body:after{
+		content: "768 and up";
+		background-color: orange;
+	}
+}
+
+@media only screen and (min-width: 1024px){
+	body{
+		background-color: white;
+	}
+	body:after{
+		content: "1024 and up";
+		background-color: red;
+	}
+}*/
+
+@media only screen{
+	.span-one-third{
+		width: 100%;
+	}
+}
+
+@media only screen and (min-width: 768px){
+	.span-one-third{
+		width: 30%;
+	}
+}
+
+/*
+@media only screen and (max-width: 768px){
+	.span-one-third{
+		width: 100%;
+	}
+}*/

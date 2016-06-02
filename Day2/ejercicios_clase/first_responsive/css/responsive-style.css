@@ -1,0 +1,22 @@
+.container{
+	/*width: 940px;
+	margin: 0 auto;*/
+	margin: 0 3%;
+}
+
+.row{
+	/*margin-left: -20px;*/
+	margin-left: -3%;
+}
+
+[class*="span"]{
+	display: inline;
+	float: left;
+	margin-left: 3%;
+	border: 1px solid black;
+	box-sizing: border-box;
+}
+/*
+.span-one-third{
+	width: 300px;
+}*/

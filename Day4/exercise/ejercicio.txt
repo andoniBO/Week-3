@@ -1,0 +1,5 @@
+objeto viking
+objeto arena
+
+1) 2 vikingos que se maten
+2) varios vikingos que ataquen un poblado

@@ -1,0 +1,46 @@
+code{
+	background: #2db34a;
+	border-radius: 6px;
+	color: #fff;
+	display: block;
+	padding: 24px 15px;
+	text-align: center;
+}
+
+header,
+section,
+aside,
+footer{
+	margin: 0 1.5% 24px 1.5%;
+	position: relative;
+	top: 200px;
+	left: -400px;
+}
+
+header{
+	position: absolute;
+	top: 100px;
+}
+
+.box-set:after, .box-set:before{
+	content: "";
+	display: table;
+}
+
+.box-set:after{
+	clear: both;
+}
+
+/*.box-set{
+	background: red;
+	overflow: hidden;  float tambien valdria
+}*/
+
+.box{
+	background: #2db34a;
+	text-align: center;
+	margin: 1.85%;
+	width: 20%;
+	height: 100px;
+	float: right;
+}

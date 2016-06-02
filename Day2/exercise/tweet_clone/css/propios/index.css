@@ -1,0 +1,101 @@
+html *
+{
+	font-weight: normal;
+}
+
+body
+{
+	width: 100%;
+	background-color: #F5F5F5;
+}
+
+ul {
+	padding: 24px 107px;
+	margin: 0;
+	align-self: center;
+}
+
+li {
+	float: left;
+	list-style-type: none;
+	padding: 0 3px;
+	margin: 0 4px;
+}
+
+.holder{
+	padding: 30px 45px;
+}
+
+.avatar{
+	float: left;
+	margin-right: 8px;
+	height: 50px;
+	width: 50px;
+}
+
+.author{
+	/*float: left;*/
+	padding-top: 16px;
+}
+
+.tags{
+    border: 1px solid #aaa;
+    color: #aaa;
+}
+
+.color{                     /*  LIGHT BLUE LETTERS   */
+	color: #87CEEB;
+}
+
+.child{
+	margin-top: 8px;
+	background-color: white;
+}
+
+.circle{
+	width: 30px;
+	height: 30px;
+	-webkit-border-radius: 25px;
+	-moz-border-radius: 25px;
+	border-radius: 25px;
+	background: #707070;
+}
+
+.comment{
+	margin-left: 40px;
+	padding-left: 10px;
+	padding-top: 3px;
+	width: 90px;
+	height: 30px;
+    border: 2px solid #2889D8;
+    padding-right: 0px; 
+    border-radius: 25px;
+    color: #2889D8;
+}
+
+.red{
+	color: #F64F5A;
+}
+
+.yellow{
+	color: #F3AB4C;
+}
+
+.bounty_info{
+	padding: 8px;
+	border-bottom: 1px solid #F5F5F5;
+}
+
+.post_info{
+	padding: 8px;
+	margin: 8px 0;
+}
+
+.text_info{
+	font-size: 125%;
+}
+
+.comment_button{
+	padding: 8px;
+	margin: 8px 0;
+}

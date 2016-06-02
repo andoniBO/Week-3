@@ -1,0 +1,31 @@
+.box{
+	position: relative;
+}
+
+.blue{
+	background-color: blue;
+}
+
+.green{
+	/*background-color: green;*/
+}
+
+.direction{
+
+}
+
+#red{
+	background-color: red;
+}
+
+#bottom{
+	position: absolute;
+	top: 400px;
+	left: 500px;
+}
+
+#top{
+	position: absolute;
+	top: 350px;
+	left: 350px;
+}

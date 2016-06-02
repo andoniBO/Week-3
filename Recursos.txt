@@ -1,0 +1,69 @@
+
+Frameworks:
+
+	http://getbootstrap.com/
+
+	http://foundation.zurb.com/
+
+	http://bulma.io/  -  el javascript hay que meterlo, el grid mola
+
+	https://github.com/n33/skel    -    ligero y responsive    -    favorito de isaura
+
+	https://github.com/Wakkos/Wakkos-CSS-Framework    -     propuesto por alex
+
+	http://neat.bourbon.io/    -    para bourbon y sass
+
+	http://bourbon.io/
+
+	http://materializecss.com/
+
+recursos para frontend:
+
+	http://codepen.io/   
+		-andy tran    -     maquina para juan
+
+	https://color.adobe.com/es/create/color-wheel/
+
+	https://coolors.co/
+
+	http://graphicburger.com/
+
+	http://www.lolcolors.com/
+
+	https://dribbble.com/
+
+	http://mediaqueri.es/
+
+	https://www.myfonts.com/WhatTheFont/    -    Detecta la font que esta en uso
+	
+	http://www.chartjs.org/
+
+	***MAPAS***
+
+		http://leafletjs.com/ 
+
+		http://openlayers.org/
+
+	***ICONOS***
+
+		http://glyphicons.com/
+
+		https://fortawesome.github.io/Font-Awesome/
+
+		https://thenounproject.com/
+
+Inspiracion:
+
+	http://helloomonday.com/
+
+	https://www.cleverfranke.com/
+
+	https://www.behance.net/
+
+	http://histography.io/
+
+
+
+
+
+

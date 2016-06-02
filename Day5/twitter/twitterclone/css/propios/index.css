@@ -1,0 +1,155 @@
+body {
+	width: 100%;
+}
+
+.container {
+	width: inherit;
+}
+
+div {
+	background-color: white;
+}
+
+ul {
+	margin: 0;
+	align-self: center;
+}
+
+/*li {
+	float: left;
+	list-style-type: none;
+}*/
+
+/*    PROFILE SECTION    */
+
+.profile ul {
+	margin: 0;
+	align-self: center;
+}
+
+.profile li {
+	margin-left: -40px;
+	padding-bottom: 4px;
+	list-style-type: none;
+}
+
+#picvid {
+	margin-top: 20px;
+}
+
+.thumbpic {
+	padding-left: 12px;
+	margin-top: 10px;
+}
+
+.thumbpic img {
+	float:left;
+	padding: 2.5px;
+	width: 90px;
+	height: 90px;
+	border-radius: 5px;
+}
+
+/*    STATS & FOLLOW    */
+
+#stats {
+	border-bottom: 1px solid #C0C0C0;
+}
+#stats_tags {
+	font-size: x-small;
+	color: #87CEEB;
+	letter-spacing: 1px;
+}
+
+#stats_tags li {
+	padding-top: 13px;
+	padding-right: 20px;
+	float: left;
+	list-style-type: none;
+}
+
+#stats_values {
+	color: #87CEEB;
+}
+
+#stats_values li {
+	margin-top: -9px;
+	padding-right: 38px;
+	float: left;
+	list-style-type: none;
+}
+
+#follow {
+	border: 1px solid #C0C0C0;
+	background-color: #F0F0F0;
+	padding: 7px 12px;
+	margin-bottom: 11px;
+	border-radius: 5px;
+	color: black;
+	float: right;
+}
+
+/*
+#stats_values li h3{
+	font-size: small;
+}*/
+
+/*    IMAGEN PORTADA    */
+
+header {
+	height: 500px;
+	margin-top: 45px;
+	border-bottom: 1px solid #808080;
+}
+
+#wall_image {
+	background-image: url("file:./../../resources/team.jpg");
+  background-repeat: no-repeat;
+	background-size: 100% auto;
+	position: relative;
+  width: 100%;
+}
+/*
+header img {
+	width: 100%;
+	min-height: 100px;
+	max-height: 2000px;
+  height: auto;
+}*/
+
+/*    MENU PRINCIPAL    */
+
+nav {
+	background-color: white;
+	height: 46px;
+	position: fixed;
+	left: 0;
+	top: 0;
+	z-index: 100;
+	border-top: 0;
+	width: 100%;
+	border-bottom: 1px solid #808080;
+}
+
+nav li {
+	color: #808080;
+	padding: 15px 20px 0 0;
+	float: left;
+	list-style-type: none;
+}
+
+nav img {
+	padding-bottom: 5px;
+	margin-right: -15px;
+	height: 22px;
+	width: auto;
+}
+
+#nav_left {
+	margin-left: -10px;
+}
+
+/*#nav_left a:hover {
+	color: blue;
+	border-bottom: 15px solid #808080;
+}*/
